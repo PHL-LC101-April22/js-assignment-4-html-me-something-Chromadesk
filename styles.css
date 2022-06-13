@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+#center {
+    text-align: center;
+}
+body {
+    background-image: url("background.png");
+    margin: 8px;
+    display: block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #479e9f;
+    background-image: url(background.png);
+
+}
+header {
+    padding: 2%;
+    background-color: #2b6b6c;
+}
+#buttons {
+    padding: 1%;
+    margin: 1%;
+    background-color:rgb(18, 60, 67);
+}
+#mainHeading {
+    color: #d37b5c;
+    text-shadow: 1px 1px black;
+}
+#testP,
+.funParagraph {
+    color: #97ab84
+}
+.content {
+    margin: 3%;
+}
+main {
+    color:#1b495c;
+}
